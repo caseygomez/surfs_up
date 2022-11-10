@@ -16,70 +16,20 @@ This analysis compares the temperature data for two months, June and December, t
 
 **Summary Statistics for June Temps:**
 
-mean 74.944118
-
-std	3.257417
-
-min	64.000000
-
-25%	73.000000
-
-50%	75.000000
-
-75%	77.000000
-
-max	85.000000
+june_temps.png
 
 
 
 **Summary Statistics for December Temps:**
-
-mean 71.041529
-
-std	3.745920
-
-min	56.000000
-
-25%	69.000000
-
-50%	71.000000
-
-75%	74.000000
-
-max	83.000000
+dec_temps.png
 
 **June Precipitation**
 
-mean 0.136360
-
-std	0.335731
-
-min	0.000000
-
-25%	0.000000
-
-50%	0.020000
-
-75%	0.120000
-
-max	4.430000
+june_precipitation.png
 
 **December Precipitation**
 
-mean 0.216819
-
-std	0.541399
-
-min	0.000000
-
-25%	0.000000
-
-50%	0.030000
-
-75%	0.150000
-
-max	6.420000
-
+dec_precipitation.png
 
 **Summary:**
 
