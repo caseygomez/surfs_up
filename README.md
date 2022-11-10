@@ -16,22 +16,20 @@ This analysis compares the temperature data for two months, June and December, t
 
 **Summary Statistics for June Temps:**
 
-![june_temps]([https://github.com/caseygomez/surfs_up/blob/main/june_temps.png])
-
-
+![June_Temperatures]([https://github.com/caseygomez/surfs_up/blob/main/june_temps.png])
 
 
 **Summary Statistics for December Temps:**
 
-dec_temps.png
+![December_Temperatures]([https://github.com/caseygomez/surfs_up/blob/main/dec_temps.png])
 
 **June Precipitation**
 
-june_precipitation.png
+![June_Precipitation]([https://github.com/caseygomez/surfs_up/blob/main/june_precipitation.png])
 
 **December Precipitation**
 
-dec_precipitation.png
+![December_Precipitation](https://github.com/caseygomez/surfs_up/blob/main/dec_precipitation.png])
 
 **Summary:**
 
