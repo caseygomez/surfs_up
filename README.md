@@ -16,7 +16,8 @@ This analysis compares the temperature data for two months, June and December, t
 
 **Summary Statistics for June Temps:**
 
-june_temps.png
+[june_temps]([https://github.com/caseygomez/surfs_up/blob/main/june_temps.png])
+
 
 
 
