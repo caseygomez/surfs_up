@@ -21,6 +21,7 @@ june_temps.png
 
 
 **Summary Statistics for December Temps:**
+
 dec_temps.png
 
 **June Precipitation**
